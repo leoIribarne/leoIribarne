@@ -1,7 +1,7 @@
 
 # E aí, eu sou o Leonardo! 👋  
 
-🎓 Estudante de **Desenvolvimento de Sistemas** na ETEC Doutora Ruth Cardoso (São Vicente, SP).  
+🎓 Formado em **Desenvolvimento de Sistemas** na ETEC Doutora Ruth Cardoso (São Vicente, SP).  
 💻 Apaixonado por tecnologia e em busca do meu primeiro estágio em TI.  
 🌱 Aprendendo C#, TypeScript, PHP, .NET, Ionic, Angular e MySQL.  
 🚀 Colaborando no meu TCC: "GetTask".  
